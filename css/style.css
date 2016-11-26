@@ -1,0 +1,85 @@
+body {
+    background-color:#F0FFFF;
+	
+}
+
+h1 {
+    color:black;
+    text-align:center;
+	font-size:50px;
+}
+img{
+    border-radius: 50%;
+	height:40%;
+    width: 30%;
+    opacity: 0.4;
+	float:center;
+}
+#pillsName{
+    width:20%;
+	padding: 14px 20px;
+    margin: 8px 0;
+	background-color: 	#fff2cc;
+	border-radius: 4px;
+	font-size:20px;
+}
+#name{
+    width:20%;
+	padding: 14px 20px;
+    margin:8px 0;
+	background-color: 	#fff2cc;
+	border-radius: 4px;
+	font-size:20px;
+	
+}
+form{
+    font-size:30px;
+}
+#searchBtn{
+   	margin:8px 0;
+	font-size:25px;
+    
+}
+/*ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#FFCCFF;
+}
+
+li {
+    float: left;
+}*/
+
+/*li a {
+    display: block;
+    color:#A39E75;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+	font-size:20px;
+}*/
+
+/*li a:hover {
+    background-color:white;
+}*/
+/* table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+	
+}
+th, td {
+    padding: 5px;
+    text-align: left;
+} */
+.table-visible{
+    display:table;
+}
+.table-invisible{
+    display:none;
+}
+
+.table td {
+	border:1px solid gray;
+}
